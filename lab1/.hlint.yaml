@@ -1,0 +1,4 @@
+# Варианты «списковое включение» намеренно показывают этот синтаксис;
+# HLint предложил бы заменить его на map.
+- ignore: {name: Use map, within: Euler.Problem06.sumSquareComprehension}
+- ignore: {name: Use map, within: Euler.Problem15.pathsComprehension}
